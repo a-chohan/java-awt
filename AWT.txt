@@ -1,0 +1,20 @@
+1.) What does it mean that Java AWT is platform-dependent? Why do we desire such a trait?
+
+	a.) AWT apps look like apps depending on the platform. This is desirable as it reduces the need to design a custom app.
+
+2.) What does it mean that Java runs on a virtual machine?  How is that beneficial?
+
+	a.) When Java runs on a virtual machine, it acts as an intermediary between Java code and the computer's hardware. This setup allows Java apps to be platform-independent.
+
+3.) In every hierarchy map of Java, Object is always at the top.  Why is this so?
+
+	a.) It allows common methods and attributes to be automatically available upon creation of a new object.
+
+4.) What is a Java package?
+
+	a.) A way to group related classes.
+
+5.) What is an event in Java?
+
+	a.) An event in Java represents a change in a state, such as a mouse click or a keyboard input.
+
